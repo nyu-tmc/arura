@@ -3,7 +3,7 @@ covertitle,Cover Title,,
 titlepage,Title Page Title,,
 coverauthor,Author,,
 description,Description,,
-subject,Subjects,true
+subject,Subjects,,true
 location,Location,,
 publishertib,Publisher,,
 publisherplacetib,Place of Publication,,
