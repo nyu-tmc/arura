@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 covertitle,Cover Title,,,Cover Title
 titlepage,Title Page Title,,,Title Page Title
 coverauthor,Author,,,Author
-subject,,true
+subject,,true,,
