@@ -34,7 +34,7 @@ author: NYU TMC Team
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: arura-cb
+metadata-csv: https://docs.google.com/spreadsheets/d/17OOBO_BcG--kDQ6MXiZKG3I-lfXgRSPt29993XYDkrM/edit?gid=0#gid=0
 
 ##########
 # Site/Organization Branding 
