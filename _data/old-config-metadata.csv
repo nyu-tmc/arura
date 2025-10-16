@@ -1,0 +1,44 @@
+- field: cover_text_title
+  display_name: Cover Text Title
+
+- field: title_page_title
+  display_name: Title Page Title
+
+- field: bdrc_text_link
+  display_name: BDRC Text Link
+  external_link: true
+
+- field: bdrc_author_link
+  display_name: BDRC Author Link
+  external_link: true
+
+- field: tol_author_link
+  display_name: TOL Author Link
+  external_link: true
+
+- field: author
+  display_name: Author
+
+- field: pub_year
+  display_name: Publication Year
+
+- field: bdrc_description
+  display_name: BDRC Description
+
+- field: location
+  display_name: Location
+
+- field: series
+  display_name: Series
+
+- field: format
+  display_name: Format
+
+- field: language
+  display_name: Language
+
+- field: rights
+  display_name: Rights
+
+- field: access
+  display_name: Access
