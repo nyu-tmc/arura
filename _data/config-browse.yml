@@ -1,0 +1,17 @@
+- field: title
+  sort_name: Title
+
+- field: author
+  sort_name: Author
+
+- field: pub_year
+  sort_name: Publication Year
+
+- field: seriesnumber
+  sort_name: Series Number
+
+- field: series
+  sort_name: Series
+
+- field: publisher
+  sort_name: Publisher

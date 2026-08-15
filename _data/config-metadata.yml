@@ -1,55 +1,91 @@
-# _data/config-metadata.yml
-- field: objectid
-  display_name: Object ID
+# Metadata fields shown on the Item page
+
 - field: seriesnumber
   display_name: Series Number
-- field: filename
-  display_name: File Name
 
 - field: title
   display_name: Title
+
 - field: title_tib
   display_name: Title (Tibetan)
+
 - field: title_eng
   display_name: Title (English)
+
 - field: title_page_title
   display_name: Title Page Title
+
 - field: title_page_title_tib
   display_name: Title Page Title (Tibetan)
+
 - field: title_chi_pinyin
-  display_name: 标题 (Pinyin)
+  display_name: Title (Chinese Pinyin)
+
 - field: title_chi_characters
-  display_name: 标题 (中文)
+  display_name: Title (Chinese)
 
 - field: bdrc_text_link
-  display_name: BDRC Text Link
+  display_name: BDRC Text
   external_link: true
+
 - field: bdrc_author_link
-  display_name: BDRC Author Link
+  display_name: BDRC Author
   external_link: true
+
 - field: tol_author_link
-  display_name: TOL Author Link
+  display_name: Treasury of Lives
   external_link: true
 
 - field: author
   display_name: Author
+
 - field: author_tib
   display_name: Author (Tibetan)
+
 - field: author_phonetics
   display_name: Author (Phonetics)
+
 - field: pub_year
   display_name: Publication Year
+
 - field: ISBN
   display_name: ISBN
+
 - field: bdrc_description
-  display_name: BDRC Description
+  display_name: Description
+
+- field: subjects
+  display_name: Subjects
+
+- field: subject_year
+  display_name: Subject Year
+
 - field: location
-  display_name: Location
+  display_name: Publication Location
+
+- field: location_tib
+  display_name: Publication Location (Tibetan)
+
 - field: series
   display_name: Series
-- field: rights
-  display_name: Rights
-- field: latitude
-  display_name: Latitude
-- field: longitude
-  display_name: Longitude
+
+- field: series_tib
+  display_name: Series (Tibetan)
+
+- field: series_eng
+  display_name: Series (English)
+
+- field: series_chi_pinyin
+  display_name: Series (Chinese Pinyin)
+
+- field: series_chi_characters
+  display_name: Series (Chinese)
+
+- field: publisher
+  display_name: Publisher
+
+- field: publisher_tib
+  display_name: Publisher (Tibetan)
+
+- field: publisher_chi_pinyin
+  display_name: Publisher (Chinese Pinyin)
